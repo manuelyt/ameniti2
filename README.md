@@ -5,13 +5,12 @@
 
 ________________________________________
 
-Este proyecto necesita 3 tablas en localhost :
-
-el hash del password se ha generado con BCrypt Calculator Generator(https://www.dailycred.com/article/bcrypt-calculator)
-
-hay 2 usuarios : user:123 y admin:123
+este proyecto se basa en este otro :
+https://github.com/bfwg/springboot-jwt-starter.git
 
 ejecutalo ( mvn spring-boot:run ) y podras acceder a localhost:8080
+
+hay 2 usuarios : user:123 y admin:123
 ________________________________________
 
 para funcionar necesita 3 tablas con algunos datos dentro en bbdd :
